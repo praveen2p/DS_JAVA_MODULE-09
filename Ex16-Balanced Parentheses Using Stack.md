@@ -23,8 +23,8 @@ If the stack is empty at the end, the parentheses are balanced.
 ```
 /*
 Program to verify whether the parentheses (brackets) in an input string are balanced
-Developed by:  Pavithra S
-RegisterNumber:  212223220073
+Developed by:  Praveen K
+RegisterNumber:  212223040152
 */
 
 import java.util.Scanner;
