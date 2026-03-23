@@ -22,8 +22,8 @@ Stop the program.
 ```
 /*
 Program to reverses an input string using a stack
-Developed by:  Pavithra S
-RegisterNumber:  212223220073
+Developed by:  Praveen K
+RegisterNumber:  212223040152
 */
 
 import java.util.Scanner;
