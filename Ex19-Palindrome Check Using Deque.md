@@ -22,8 +22,8 @@ Display the result.
 ```
 /*
 Program to checks whether a given message is a palindrome by removing all non-alphanumeric characters.
-Developed by: Pavithra S
-RegisterNumber:  212223220073
+Developed by: Praveen K
+RegisterNumber:  212223040152
 */
 
 import java.util.*;
